@@ -1,0 +1,548 @@
+.nav {
+
+    width: 100%;
+}
+
+.inside {
+    color: #e9e9e9;
+    display: flex;
+    justify-content: end;
+    /* margin: 0px 57px; */
+    font-size: 13px;
+    padding: 4px 40px;
+    width: 100%;
+    background: black;
+    height: 38px;
+}
+
+
+.menubar {
+    padding: 4px 10px;
+    border-right: 1px solid #8b8b8b;
+}
+
+.half {
+    padding: 18px;
+    width: 100%;
+    display: flex;
+    gap: 33px;
+    justify-content: space-around;
+}
+
+.shop {
+    width: 13%
+}
+
+.box {
+    height: 40px;
+    width: 644px;
+    background: #ede4e4b0;
+    border-radius: 9px;
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+}
+
+.layer {
+    flex: 1;
+    height: 39px;
+    border: none;
+    background: #efededcf;
+
+}
+
+.user {
+    font-size: 25px;
+    display: flex;
+    gap: 50px;
+}
+
+.log {
+    border: none;
+}
+
+.logo3 {
+    display: flex;
+    gap: 20px;
+    font-size: 28px;
+}
+
+.list {
+    display: flex;
+    height: 70px;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    padding: 0px 50px;
+}
+
+.design {
+    border-right: 1px solid #8b8b8b;
+    padding: 0px 17px;
+
+}
+
+.hub {
+    font-weight: bold;
+}
+
+.bar {
+    font-weight: bold;
+    color: #ef0f0fdb;
+}
+
+.luxe {
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.back {
+
+    background-image: url(./Photography\ -\ Compendium.jfif);
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 60vh;
+    background-size: 100%;
+    margin-top: 6px;
+    background-color: #6b23235c;
+    background-blend-mode: overlay;
+}
+
+.sea {
+    font-size: 50px;
+    font-weight: 700;
+    color: #e1dcdc;
+    line-height: 85px;
+    padding: 1px 80px;
+}
+
+.sea1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: #e1dcdc;
+    line-height: 24px;
+    padding: 1px 80px;
+}
+
+.elevate {
+    color: #e1dcdc;
+    font-size: 25px;
+    margin: 0px 78px;
+    line-height: 64px;
+}
+
+.elevate1 {
+    color: #e1dcdc;
+    font-size: 25px;
+    margin: 0px 78px;
+    line-height: 2px;
+}
+
+.brands {
+    color: #e1dcdc;
+    font-weight: 900;
+    font-size: 25px;
+
+}
+
+.choose {
+
+    color: #e1dcdc;
+    font-weight: 900;
+    font-size: 25px;
+
+}
+
+.sub {
+    padding: 65px 77px;
+}
+
+.cms {
+    width: 100%;
+    padding: 59px 92px;
+}
+
+.featured {
+    display: flex;
+    justify-content: center;
+    color: gray;
+    gap: 15px;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.rands {
+    color: black;
+}
+
+.club {
+    background-image: url(./Club\ De\ Nuit.jfif);
+    background-size: 100% 100%;
+    width: 100%;
+    background-color: #353d5bf0;
+    background-blend-mode: overlay;
+    height: 55vh;
+}
+
+.nuit {
+    color: #fff4f4;
+
+}
+
+.nuit1 {
+    margin-left: 46px;
+    color: #fff4f4;
+}
+
+.holl {
+    padding: 132px 124px;
+    font-size: 50px;
+    line-height: 44px;
+}
+
+.man {
+    font-size: 15px;
+
+}
+
+.bisi {
+    color: white;
+    padding: 40px 211px;
+}
+
+.bisi1 {
+    font-weight: 600;
+    font-size: 53px;
+}
+
+.bisi2 {
+    font-size: 27px;
+    margin: 0px 26px;
+}
+
+.bisi3 {
+    margin: 0px 69px;
+}
+
+.rule {
+    font-size: 25px;
+    margin: 0px 7px;
+}
+
+.fresh {
+
+    font-size: 78px;
+    font-weight: 700;
+
+
+}
+
+.fash {
+    background-color: #060636;
+    width: 222px;
+    height: 62px;
+    color: white;
+    font-size: 41px;
+}
+
+.frefas {
+    padding: 40px 0px;
+    width: 23%;
+    height: 50vh;
+}
+
+/* .card1{
+    background-color: #060636;
+    width: 20%;
+    height: 40%;
+} */
+.frefas1 {
+    height: 54vh;
+    width: 25%;
+    background-color: #10103a;
+    text-align: center;
+}
+
+.imageph {
+    width: 94%;
+    height: 48vh;
+    padding: 19px 10px;
+    padding-top: 19px;
+    position: sticky;
+}
+
+.fullbox {
+    gap: 15px;
+    margin-top: 21px;
+    padding-top: 76px;
+}
+
+.takka {
+    background-color: white;
+    width: 100px;
+    height: 17px;
+}
+
+.trending {
+    font-size: 32px;
+    font-weight: 700;
+    color: gray;
+    text-align: center;
+    padding: 26px 0px;
+}
+
+.trending-1 {
+    color: black;
+    margin-right: 15px;
+}
+
+.lipstick {
+    background-image: url(./skin\ back.jfif);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 62vh;
+    background-blend-mode: overlay;
+    background-color: #73716bd1;
+    display: flex;
+    flex-direction: column;
+}
+
+.foundation {
+    width: 40%;
+    height: 45vh;
+}
+
+.foundation-1 {
+    width: 119px;
+    height: 113px;
+}
+
+.labelss {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pri {
+    border-right: 1px solid black;
+    height: 30px;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0px 4px;
+}
+
+.pri-1 {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 0px 4px;
+}
+
+.cos {
+    /* border: 2px solid black; */
+    display: inline-block;
+    /* height: 10vh; */
+    width: 40vw;
+    padding: 3px 3px;
+    margin-bottom: 50px;
+}
+
+.cards1 {
+    height: 53vh;
+    width: 20%;
+    background-color: #d1d1df;
+    border: 10px solid #2c2c5d;
+    border-radius: 13px;
+    text-align: center;
+    /* margin-top: 80px; */
+}
+
+.flatoff {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+.imagu {
+    width: 98%;
+    height: 36vh;
+    padding: 8px 3px;
+    padding-top: 0px;
+    position: sticky;
+}
+
+.kidy {
+    width: 143px;
+    height: 68px;
+}
+
+.ball {
+    display: flex;
+    gap: 20px;
+}
+
+.side {
+    display: flex;
+    width: 90%;
+    border: 10px solid black;
+    height: 57vh;
+    border-radius: 5px;
+    margin-top: 60px;
+    margin-left: 61px;
+}
+
+.elegant {
+    width: 100%;
+    height: 54vh;
+    padding: 11px;
+}
+
+.side1 {
+    width: 70%;
+}
+
+.side2 {
+    width: 35%;
+    width: 35%;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    padding-top: 80px;
+}
+
+.ballu {
+    border: 2px solid #ff7600;
+    width: 24%;
+    height: 49vh;
+    background-color: #b3a6a673;
+    border-radius: 12px;
+}
+
+.silde {
+    width: 100%;
+    height: 45vh;
+}
+
+.sandal1 {
+    width: 100px;
+    height: 8vh;
+    margin: 2px 159px;
+}
+
+.sandal2 {
+    width: 77px;
+    height: 4vh;
+}
+
+.sandal3 {
+    width: 77px;
+    height: 4vh;
+    margin: 2px 130px;
+}
+
+.sandal4 {
+    width: 84px;
+    height: 10vh;
+    margin: 1px 25px;
+}
+
+.brandsliper {
+    background-color: #dfd6d6;
+    width: 100%;
+    height: 70vh;
+
+}
+
+.lastfull {
+    height: 25vh;
+    width: 100%;
+    background-color: #ffe0c4d9;
+}
+
+.lastlogo {
+    font-size: 66px;
+}
+
+.last1 {
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    padding: 0px 80px;
+}
+
+.start3 {
+    color: #9f9f9f;
+}
+
+.detailsfull {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0px;
+}
+
+.details1 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px !important;
+}
+
+.paymentlogo {
+    height: 40px;
+    width: 100px;
+}
+
+.lasttop {
+    height: 20vh;
+    width: 100%;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+.lasttop1 {
+    width: 25%;
+}
+
+.lasttop2 {
+    width: 30%;
+}
+
+.lasttop3 {
+    width: 30%;
+}
+
+.searchb3 {
+    width: 280px;
+    height: 50px;
+    text-align: center;
+    border: 1px solid rgb black;
+    border-radius: 10px;
+    margin: 14px 0px;
+    border: 1px solid;
+    color: black;
+    display: flex;
+    align-items: center;
+    gap: 19px;
+    background-color: #00000000;
+}
+
+.searchb4 {
+    border: 1px solid transparent;
+    background-color: transparent;
+    font-weight: 700;
+}
+
+.mediaicon {
+    font-size: 40px;
+    gap: 30px;
+}
+
+.fontw {
+    font-weight: 900;
+}
